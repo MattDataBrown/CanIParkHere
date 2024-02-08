@@ -36,7 +36,7 @@ const app = {
       ]
     },
 
-    // Step 3
+     // Step 3
     {
       question: "Sign Color",
       answers: [{
@@ -48,16 +48,16 @@ const app = {
           nextStep: 6
         },
         {
-          text: "Green",
-          nextStep: 7
+          text: "Green_In Progress",
+          
         },
         {
-          text: "Yellow",
-          nextStep: 8
+          text: "Yellow_In Progress",
+          
         },
         {
-          text: "White",
-          nextStep: 9
+          text: "White_In Progress",
+          
         },
       ]
     },
