@@ -96,7 +96,7 @@ const app = {
     {
       question: "Only Vehicles with valid Disabled Plates, Tabs or Placards can park there.",
       answers: [{
-          text: "I DO have a Disabled Placard, Plate or Tab",
+          text: "I have a Valid Disabled Placard, Plate or Tab",
           nextStep: 9
         },
         {
